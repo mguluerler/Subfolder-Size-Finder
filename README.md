@@ -1,7 +1,7 @@
 <h1><b>Subfolder-Size-Finder</b></h1>
 <h3>Summary: This program is designed for finding subfolders size, if you wondered for what is size of your games or which program, which folder take up how much space in your storage, this program will help you for answering your questions.</h3>
 <h3>How do you use?</h3>
-<p>Just change <code><b>folders_path</b></code> variable with file path of your main folder and don't forget to use <code>double '\'</code> for showing file paths (as "C:\\Program Files (x86)\\Steam"). Also if you want to find more than one folder, you can seperate your file paths with ',', program will work without any exception.</p>
+<p>Just change <code><b>folders_path</b></code> variable with file path of your main folder and don't forget to use <code>double '\'</code> for showing file paths (as "C:\\Program Files (x86)\\Steam"). Also if you want to find more than one folder, you can seperate your file paths with comma, program will work without any exception.</p>
 <h3><b>Is This Work?</b></h3>
 <h2><u>Example Random File</u></h2>
 <p align="center"><i><img src="https://github.com/mguluerler/Subfolder-Size-Finder/blob/main/figures/mainfilesize1.png"><br>Main files size<br>
